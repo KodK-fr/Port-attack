@@ -1,0 +1,5 @@
+need to run
+https://www.revshells.com/
+https://nmap.org (ncat)
+nc -lvnp 9001
+
